@@ -1,0 +1,2 @@
+# Rustlings
+Learning RUST syntax
